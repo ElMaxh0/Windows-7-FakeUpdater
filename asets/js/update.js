@@ -1,0 +1,1 @@
+    setInterval(function(){contador++; document.getElementById("porcentagem").innerHTML=contador +'%'}, 1000);
